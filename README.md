@@ -9,3 +9,6 @@
 
 ## Phân cụm
 1. [KMeans](https://drive.google.com/file/d/1s-CzoDuBs_rK6zgr3zWppstBLwWBjY_j/view?usp=sharing)
+
+### Một mô hình phân lớp đơn giản:
+- [Drug Classification](https://jovian.ai/manh21112003/drug-simple-model)
